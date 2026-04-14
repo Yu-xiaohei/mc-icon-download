@@ -3,7 +3,7 @@
 Small utility for searching and downloading Minecraft icons and textures from `https://ccvaults.com/`.
 
 若您需要查看中文版本说明文档，请查看
-[［简体中文.md］](./README_zh.md)
+[［简体中文.md］](./docs/README_zh.md)
 
 ## Features
 
@@ -44,14 +44,14 @@ python3 mc_icon_download.py download --kind icon --query Diamond_Sword.png --exa
 
 ## Documentation
 
-- [QUICKSTART.md](./QUICKSTART.md)
-- [COMMANDS.md](./COMMANDS.md)
-- [AGENT_WORKFLOW.md](./AGENT_WORKFLOW.md)
-- [API_NOTES.md](./API_NOTES.md)
+- [QUICKSTART.md](./docs/QUICKSTART.md)
+- [COMMANDS.md](./docs/COMMANDS.md)
+- [AGENT_WORKFLOW.md](./docs/AGENT_WORKFLOW.md)
+- [API_NOTES.md](./docs/API_NOTES.md)
 
 Chinese translation:
 
-- [README_zh.md](./README_zh.md)
+- [README_zh.md](./docs/README_zh.md)
 
 ## Development Notes
 
