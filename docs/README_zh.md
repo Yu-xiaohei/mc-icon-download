@@ -1,6 +1,6 @@
 > 这个目录提供一个独立的小工具，用来从 `https://ccvaults.com/` 获取 Minecraft 图标和纹理的名称、直链，并直接下载原图。
 
-英文文档请见 [[README]() ]
+英文文档请见 [[README](/README.md) ]
 
 核心脚本：
 
