@@ -8,10 +8,10 @@
 
 相关文档：
 
-- [快速开始.md](./docs/QUICKSTART_zh.md)
-- [命令使用.md](./docs/COMMANDS_zh.md)
-- [Agent 工作流.md](./docs/AGENT_WORKFLOW_zh.md)
-- [API 接口说明.md](./docs/API_NOTES_zh.md)
+- [快速开始.md](/docs/QUICKSTART_zh.md)
+- [命令使用.md](/docs/COMMANDS_zh.md)
+- [Agent 工作流.md](/docs/AGENT_WORKFLOW_zh.md)
+- [API 接口说明.md](/docs/API_NOTES_zh.md)
 
 设计目标：
 
